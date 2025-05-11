@@ -37,9 +37,9 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Blog # Needed for Siteleaf
+    title: Yanlin's Learning Blog # Needed for Siteleaf
     output: true
-    description: "This is merely a demo, find out more [about Garth](about)" # The post list page content
+    description: "Embark on a fun ride through pharma investments, business trends, and groundbreaking science" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
