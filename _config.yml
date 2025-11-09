@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:suzyso623@gmail.com"}
-  #{title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/suzy-su-"}
   #{title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
