@@ -1,14 +1,14 @@
 title: "Yanlin's Blog"
 author: "Yanlin Su"
 description: "My blog"
-permalink: /:title/
+#permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: false             # show article excerpts instead of archive list on the home page
+show_excerpts: false            # show article excerpts instead of archive list on the home page
 show_frame: true                # display a grey frame on large screens
 show_sidebar: false             # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
