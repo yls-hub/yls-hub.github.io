@@ -10,4 +10,6 @@ Take Oracle as an example. Yesterday, I read that its shares have dropped more t
 
 Oracle’s financials reflect investor concerns. Over the past year, its long-term debt ballooned to $96 billion, and it spent more cash than it generated on AI infrastructure. In fact, it’s the only Big Tech player this year with negative free cash flow. Yet, Oracle plans to raise another $38 billion in debt to keep financing AI. In Corporate Finance, we learn to base investment decisions on growth prospects, cash flow, and financing risk. From every angle, Oracle appears to be going all-in—despite bleeding cash. The financing risk is enormous given the debt load and uncertain interest rates. If cash flow doesn’t improve and confidence in the AI boom falters, Oracle could become a prime target for short sellers.
 
+![Oracle](/assets/images/Oraclefinancial.png)
+
 [post]:https://wlockett.medium.com/you-have-no-idea-how-screwed-openai-actually-is-8358dccfca1c 
