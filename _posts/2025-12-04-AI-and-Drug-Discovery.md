@@ -2,7 +2,7 @@
 title: "AI and Drug Discovery"
 layout: post
 ---
-News about AI transforming drug discovery is everywhere. Headlines paint a picture of novel molecules emerging from labs at unprecedented speed, pharmaceutical giants investing billions within a few years instead of decades, and patients—once at the mercy of fatal diseases—placing hope in the power of AI.
+News about AI transforming drug discovery is everywhere. Headlines paint a picture of novel molecules emerging from labs at unprecedented speed, pharmaceutical giants harvesting billions within a few years instead of decades, and patients—once at the mercy of fatal diseases—placing hope in the power of AI.
 
 From what I’ve observed, most applications focus on large-scale data screening and analysis, generating new chemical structures, and modeling drug profiles such as toxicity or binding affinity. But I wanted a more concrete example—and that’s when **AlphaFold** came up.
 
@@ -23,4 +23,4 @@ While the basic AlphaFold version is open source, advanced features and speciali
 *	Licensing specialized versions for commercial use.
 *	Collaborative drug design projects with big pharma, leveraging AlphaFold predictions to accelerate development.
 
-AlphaFold stands as a prime example of how AI is reshaping drug discovery. For those without a scientific background, it offers a tangible, real-world illustration of AI’s potential in life sciences. I’m excited to follow its evolution and see how it continues to push the boundaries of medicine and research.
+AlphaFold stands as a epitome of how AI is reshaping drug discovery. For those without a scientific background, it offers a tangible, real-world illustration. I’m excited to follow its evolution and see how it continues to push the boundaries of research.
