@@ -2,10 +2,8 @@
 title: "Antibiotics I"
 layout: post
 ---
-Antibiotics are deeply embedded in everyday life. Recently, I overheard colleagues discussing doctors prescribing antibiotics to children for fevers—a common scenario. For many, the story ends with “antibiotics treat infections.” But the reality is far more complex.
-
-<img src="/assets/images/Antibiotics1.png" alt="Antibiotics" width="300" height="350">
-
+Antibiotics are deeply embedded in everyday life. Recently, I overheard colleagues discussing doctors prescribing antibiotics to children for fevers—a common scenario. For many, the story ends with “antibiotics treat infections.” But the reality is far more complex.  
+<img src="/assets/images/Antibiotics1.png" alt="Antibiotics" width="300" height="350">  
 Our bodies are constantly exposed to bacteria. From head to toe, any part can become infected—ranging from mild skin infections to severe conditions like meningitis or sexually transmitted diseases (STDs). The severity often depends on the strength and type of bacteria. Gram-negative bacteria, for example, have a thick outer membrane, making them harder to kill.
 
 So, how do antibiotics work? They target bacteria through several key mechanisms:
@@ -22,7 +20,7 @@ Drugs like Quinolones interfere with DNA replication and transcription, preventi
 **IV. Disruption of Cytoplasmic Membrane**
 Agents such as Polymyxins alter membrane permeability, causing essential intracellular ions to leak out—leading to bacterial death.
 
-<img src="/assets/images/Antibiotics2.png" alt="Antibiotics" width="600" height="500">
+<img src="/assets/images/Antibiotics2.png" alt="Antibiotics" width="500" height="400">
 
 The progress in antibiotic development during the last century has been remarkable. New mechanism and varieties were discovered every 5-10 years.
 
