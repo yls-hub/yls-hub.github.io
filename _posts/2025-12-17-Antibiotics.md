@@ -5,6 +5,7 @@ layout: post
 Antibiotics are deeply embedded in everyday life. Recently, I overheard colleagues discussing doctors prescribing antibiotics to children for fevers—a common scenario. For many, the story ends with “antibiotics treat infections.” But the reality is far more complex.
 
 <img src="/assets/images/Antibiotics1.png" alt="Antibiotics" width="300" height="350">
+
 Our bodies are constantly exposed to bacteria. From head to toe, any part can become infected—ranging from mild skin infections to severe conditions like meningitis or sexually transmitted diseases (STDs). The severity often depends on the strength and type of bacteria. Gram-negative bacteria, for example, have a thick outer membrane, making them harder to kill.
 
 So, how do antibiotics work? They target bacteria through several key mechanisms:
@@ -21,11 +22,11 @@ Drugs like Quinolones interfere with DNA replication and transcription, preventi
 **IV. Disruption of Cytoplasmic Membrane**
 Agents such as Polymyxins alter membrane permeability, causing essential intracellular ions to leak out—leading to bacterial death.
 
-<img src="/assets/images/Antibiotics2.png" alt="Antibiotics" width="600" height="550">
+<img src="/assets/images/Antibiotics2.png" alt="Antibiotics" width="600" height="500">
 
 The progress in antibiotic development during the last century has been remarkable. New mechanism and varieties were discovered every 5-10 years.
 
-<img src="/assets/images/Antibiotics3.png" alt="Antibiotics" width="600" height="450">
+<img src="/assets/images/Antibiotics3.png" alt="Antibiotics" width="600" height="350">
 
 However, epidemiological data reveal a worrying trend: antibiotic resistance is rising globally. One study finds that global consumption increased by **16%** from 2016 to 2023, reaching 34 billion defined daily doses. ECDC, European Center for Disease Prevention and Control, reports a statistically significant rise in antibiotic use in both primary care and hospitals between 2020 and 2024. Overuse and misuse of antibiotics accelerate this process, creating stronger bacteria, more untreatable infections, and higher mortality rates.  Resistant bacteria multiply rapidly, share resistance genes, and even produce enzymes that destroy antibiotics. The phrase “What doesn’t kill me makes me stronger” perfectly describes this phenomenon.
 
