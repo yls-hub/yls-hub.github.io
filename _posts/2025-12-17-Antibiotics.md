@@ -25,13 +25,13 @@ Agents such as Polymyxins alter membrane permeability, causing essential intrace
 
 The progress in antibiotic development during the last century has been remarkable. New mechanism and varieties were discovered every 5-10 years.
 
-<img src="/assets/images/Antibiotics3.png" alt="Antibiotics" width="700" height="650">
+<img src="/assets/images/Antibiotics3.png" alt="Antibiotics" width="600" height="450">
 
 However, epidemiological data reveal a worrying trend: antibiotic resistance is rising globally. One study finds that global consumption increased by **16%** from 2016 to 2023, reaching 34 billion defined daily doses. ECDC, European Center for Disease Prevention and Control, reports a statistically significant rise in antibiotic use in both primary care and hospitals between 2020 and 2024. Overuse and misuse of antibiotics accelerate this process, creating stronger bacteria, more untreatable infections, and higher mortality rates.  Resistant bacteria multiply rapidly, share resistance genes, and even produce enzymes that destroy antibiotics. The phrase “What doesn’t kill me makes me stronger” perfectly describes this phenomenon.
 
 The impact is severe. Global Antibiotic Resistance Surveillance Report 2025 shows that antimicrobial resistance accounts for millions of deaths annually, particularly in bloodstream infections—the deadliest category. Common pathogens such as E. coli and K. pneumoniae show resistance rates exceeding 40%, driving the highest mortality burden.
 
-<img src="/assets/images/Antibiotics4.png" alt="Antibiotics" width="700" height="650">
+<img src="/assets/images/Antibiotics4.png" alt="Antibiotics" width="600" height="300">
 
 With so many unmet medical needs, the question arises: What does the pipeline of new antibiotics look like? Is the commercial outlook for developing stronger drugs to combat this public health crisis promising—or bleak?
 
