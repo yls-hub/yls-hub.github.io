@@ -6,12 +6,16 @@ Antibiotics are deeply embedded in everyday life. Recently, I overheard colleagu
 Our bodies are constantly exposed to bacteria. From head to toe, any part can become infected—ranging from mild skin infections to severe conditions like meningitis or sexually transmitted diseases (STDs). The severity often depends on the strength and type of bacteria. Gram-negative bacteria, for example, have a thick outer membrane, making them harder to kill.
 
 So, how do antibiotics work? They target bacteria through several key mechanisms:
+
 I. Inhibition of Cell Wall Synthesis
 This is the oldest and most iconic mechanism, inspiring the discovery of Penicillin, a major beta-lactam antibiotic. By preventing bacteria from forming cell walls, these drugs cause bacterial death.
+
 II. Inhibition of Protein Synthesis
 Antibiotics such as Tetracyclines, Macrolides, and Streptogramins bind to bacterial ribosomal subunits, halting protein chain formation and stopping growth.
+
 III. Inhibition of Nucleic Acid Synthesis
 Drugs like Quinolones interfere with DNA replication and transcription, preventing bacteria from reproducing or repairing themselves.
+
 IV. Disruption of Cytoplasmic Membrane
 Agents such as Polymyxins alter membrane permeability, causing essential intracellular ions to leak out—leading to bacterial death.
 
