@@ -12,9 +12,9 @@ Today, only GSK and Roche retain antibiotic assets—Roche has just 1 out of 122
 
 The financing community shares this pessimism. Between 2018–2023, private investment in antibiotics totaled $1.2B—42 times less than oncology.
 
-Reasons are multi-facet but drilled down largely to economic returns – how fast and how much the company can recover the initial investment. A recent estimate: a new antibiotic needs $300M in annual revenue to be sustainable, yet most earn $15M–$50M. No wonder pharma pivots to lucrative areas like oncology.
+The reasons for exiting are multifaceted but largely boil down to economic returns – how fast and how much the company can recover the initial investment. A recent estimate shows that a new antibiotic needs $300M in annual revenue to be sustainable, yet most earn $15M–$50M per year. Developing antibiotics is tricker than other drugs:
 
-I.	**Drug discovery**: developing antibiotics is harder than most drugs. Bacteria evolve rapidly, often becoming resistant during development.  
+I.	**Drug discovery**: discoverying and validating an antibiotics is harder. Bacteria evolve rapidly, often becoming resistant during development.  
 II.	**Clinical Trials**: trials aim for “non-inferiority” to existing treatments, requiring costly comparisons to multiple standards of care. For drugs targeting deadly pathogens, patient enrollment is a challenge.  
 III.	**Pricing**: Antibiotics have weak pricing power. They must remain widely accessible and face strict cost-effectiveness scrutiny. QALY-based pricing shows stark contrast: $900K for an anti-cancer orphan drug vs. $2K for a novel antibiotic.  
 IV.	**Sales Volume**: Treatment lasts 1–2 weeks, unlike chronic therapies. Stewardship programs reserve new antibiotics as last-resort options—good for public health, bad for business.
