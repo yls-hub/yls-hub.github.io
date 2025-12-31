@@ -12,7 +12,7 @@ Today, only GSK and Roche retain antibiotic assets—Roche has just 1 out of 122
 
 The financing community shares this pessimism. Between 2018–2023, private investment in antibiotics totaled $1.2B—42 times less than oncology.
 
-The reasons for exiting are multifaceted but largely boil down to economic returns – how fast and how much the company can recover the initial investment. A recent estimate shows that a new antibiotic needs $300M in annual revenue to be sustainable, yet most earn $15M–$50M per year. Developing antibiotics is tricker than other drugs:
+The reasons for exiting are multifaceted but primarily boil down to economic returns—how quickly and to what extent the company can recover its initial investment. Recent estimates indicate that a new antibiotic requires approximately $300 million in annual revenue to be sustainable, yet most generate only $15–$50 million per year. The financial return remains unfavorable because investment can hardly be paid back:
 
 I.	**Drug discovery**: discoverying and validating an antibiotics is harder. Bacteria evolve rapidly, often becoming resistant during development.  
 II.	**Clinical Trials**: trials aim for “non-inferiority” to existing treatments, requiring costly comparisons to multiple standards of care. For drugs targeting deadly pathogens, patient enrollment is a challenge.  
