@@ -15,11 +15,8 @@ The financing community shares this pessimism. Between 2018–2023, private inve
 Reasons are multi-facet but drilled down largely to economic returns – how fast and how much the company can recover the initial investment.
 
 I.	**Drug discovery**: developing antibiotics is harder than most drugs. Bacteria evolve rapidly, often becoming resistant during development.
-
 II.	**Clinical Trials**: trials aim for “non-inferiority” to existing treatments, requiring costly comparisons to multiple standards of care. For drugs targeting deadly pathogens, patient enrollment is a challenge.
-
 III.	**Pricing**: Antibiotics have weak pricing power. They must remain widely accessible and face strict cost-effectiveness scrutiny. QALY-based pricing shows stark contrast: $900K for an anti-cancer orphan drug vs. $2K for a novel antibiotic.
-
 IV.	**Sales Volume**: Treatment lasts 1–2 weeks, unlike chronic therapies. Stewardship programs reserve new antibiotics as last-resort options—good for public health, bad for business.
 
 A recent estimate: a new antibiotic needs $300M in annual revenue to be sustainable, yet most earn $15M–$50M. No wonder pharma pivots to lucrative areas like oncology.
