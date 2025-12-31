@@ -2,7 +2,7 @@
 title: "Antibiotics II"
 layout: post
 ---
-The last post explored the background of antibiotics. The alarming reality: _antimicrobial resistance (AMR) is projected to cause 10 million deaths annually by 2050 and $3 trillion in global GDP losses per year by 2030_ points to an urgent need for new drug discovery. With such a vast patient base and global market, one would expect major innovation and competition. The reality is the opposite.
+The last post explored the background of antibiotics. The alarming reality: _antimicrobial resistance (AMR) is projected to cause 10 million deaths annually by 2050 and $3 trillion in global GDP losses per year by 2030_ points to an urgent need for new drug discovery. With such a vast patient base and global market, one would expect major innovation and competition. **The reality is the opposite**.
 
 Since the 2010s, big pharma has largely abandoned antibiotics and even infectious diseases as a whole: Pfizer exited antibiotic pre-clinical research in 2011; AstraZeneca spun out all antibiotic assets; Allergan, Sanofi, and Novartis pulled out in 2018.
 
