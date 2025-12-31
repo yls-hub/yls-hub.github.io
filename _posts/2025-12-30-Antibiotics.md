@@ -8,7 +8,7 @@ Since the 2010s, big pharma has largely abandoned antibiotics and even infectiou
 
 Today, only GSK and Roche retain antibiotic assets—Roche has just 1 out of 122 pipeline assets, while GSK’s infectious disease portfolio is mostly vaccines.
 
-<img src="/assets/images/GSK.png" alt="Antibiotics" width="300" height="350">  
+<img src="/assets/images/GSK.png" alt="Antibiotics" width="450" height="350">  
 
 The financing community shares this pessimism. Between 2018–2023, private investment in antibiotics totaled $1.2B—42 times less than oncology.
 
@@ -24,7 +24,7 @@ IV.	**Sales Volume**: Treatment lasts 1–2 weeks, unlike chronic therapies. Ste
 
 A recent estimate: a new antibiotic needs $300M in annual revenue to be sustainable, yet most earn $15M–$50M. No wonder pharma pivots to lucrative areas like oncology.
 
-<img src="/assets/images/AntibioticApproval.png" alt="Antibiotics" width="300" height="350">  
+![Antibiotics](/assets/images/AntibioticApproval.png)
 
 The world is running a tough race against bacterial infections on mortality and morbidity with diminishing number of effective drugs. Luckily we still see that biotech, SMEs, and academia continue innovating, but success is far from guaranteed. Allecra’s Exblifeb (approved in 2024 for cUTIs) couldn’t generate enough sales and went bankrupt in 2025. Another biotech Tetraphase which brought Xerava to the market was sold in 2020 due to substantial losses despite over a decade of effort of bring the drug to the market in 2018.
 
